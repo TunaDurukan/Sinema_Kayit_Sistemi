@@ -1,4 +1,4 @@
-# 🎥 Sinema Yönetim Sistemi
+# 🎥 Sinema Kayıt Sistemi
 
 Bu proje, sinema salonları, filmler ve müşteriler arasında ilişkileri yönetmek için geliştirilmiş bir konsol uygulamasıdır. Sistem, müşteri, film ve salon yönetimi gibi temel işlevsellikler sunar.
 
